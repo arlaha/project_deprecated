@@ -1,0 +1,9 @@
+<mvc:View controllerName="sap.btp.demo.projectdeprecated.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <Button id="button1" text="Click Here" press="onButtonPress"></Button>
+        </content>
+    </Page>
+</mvc:View>
